@@ -27,12 +27,13 @@ using namespace std;
 
 #define ll long long
 #define pb push_back
-#define sz(x) (int)x.size()
+#define sz(x) (long long)x.size()
 #define mo 1000000007
 #define ep() empty()
 #define pii pair<ll,ll>
-#define rep(a,b) for(int a=0;a<b;a++)
-#define forn(a,b,c) for(int a=b;a<=c;a++)
+#define rep(a,b) for(long long a=0;a<b;a++)
+#define rep1(a,b) for(long long a = 1; a<=b; a++)
+#define forn(a,b,c) for(long long a=b;a<=c;a++)
 #define vll vector<long long>
 
 // ------------------------------------------------------------
@@ -44,7 +45,7 @@ void solve(){
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
-    int t=1;
+    ll t=1;
     //cin >> t;
     while(t--){
         solve();
