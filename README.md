@@ -1,3 +1,3 @@
 # Cpp_notebook
 
-Templates & Problems that need to be revisited.
+Templates, past USACO contest & past Codeforces contest records.
